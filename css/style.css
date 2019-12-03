@@ -25,9 +25,13 @@ span {
   color: white;
 }
 
+.container_1000 {
+  max-width: 80%;
+  margin: auto;
+}
+
 .jumbotron {
-  background-color: green;
-  height: 550px;
+  background-color: green;;
 }
 
 .jumbo {
@@ -43,4 +47,13 @@ span {
   background-color: red;
   text-align: center;
   margin: auto;
+}
+
+.button {
+  margin: auto;
+  background-color: blue;
+  height: 50px;
+  width: 30%;
+  text-align: center;
+  margin-top: 20px;
 }
