@@ -2,6 +2,14 @@
   border: 1px solid yellow;
 }
 
+.text_center {
+  text-align: center;
+}
+
+.margin_top_50 {
+  margin-top: 50px;
+}
+
 header {
   height: 700px;
   background-color: red;
@@ -26,5 +34,13 @@ span {
   width: 400px;
   height: 400px;
   background-color: pink;
+  margin: auto;
+}
+
+.box_foto {
+  height: 300px;
+  width: 300px;
+  background-color: red;
+  text-align: center;
   margin: auto;
 }
