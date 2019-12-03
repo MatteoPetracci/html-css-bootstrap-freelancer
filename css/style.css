@@ -16,3 +16,15 @@ nav {
 span {
   color: white;
 }
+
+.jumbotron {
+  background-color: green;
+  height: 550px;
+}
+
+.jumbo {
+  width: 400px;
+  height: 400px;
+  background-color: pink;
+  margin: auto;
+}
