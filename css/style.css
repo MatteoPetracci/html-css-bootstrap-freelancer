@@ -228,6 +228,13 @@ footer {
   font-size: 25px;
 }
 
+i {
+  border-radius: 50%;
+  color: white;
+  border: 2px solid white;
+  padding: 15px;
+}
+
 .color_green {
   color: #1ABC9C;
 }
