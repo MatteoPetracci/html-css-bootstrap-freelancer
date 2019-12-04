@@ -42,6 +42,7 @@
  margin-top: 30px;
 }
 
+
 h2 {
   font-size: 50px;
    font-weight: bold;
@@ -59,6 +60,9 @@ h2 {
   margin: 30px 0;
 }
 
+.padding_10 {
+  padding: 10px;
+}
 
 /* header */
 
@@ -158,13 +162,35 @@ a.plus {
   color: white;
   text-decoration: none;
 }
+
 /* about */
+
 #about {
   color: white;
 }
 
 .width_p {
   font-size: 21px;
+}
+
+button.btn-default {
+  background-color: #1ABC9C;
+  border: 2px solid white;
+  color: white;
+  font-size: 21px;
+  font-family: arial;
+}
+
+.text_decoration {
+  color: white;
+}
+
+button:hover a.text_decoration {
+  text-decoration: none;
+  color: black;
+}
+button.btn-default:hover {
+  background-color: white;
 }
 
 /* Footer */
