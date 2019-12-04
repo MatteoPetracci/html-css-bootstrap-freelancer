@@ -193,6 +193,20 @@ button.btn-default:hover {
   background-color: white;
 }
 
+/* contact me */
+
+
+.form_size {
+
+}
+
+.border_none {
+  border: none;
+  box-shadow: none;
+  border-bottom: 1px solid lightgrey;
+}
+
+
 /* Footer */
 
 .footer_top {
