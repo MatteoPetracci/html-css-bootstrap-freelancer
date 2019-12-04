@@ -31,10 +31,15 @@
   font-weight: bold;
  }
 
+ .margin_top_30 {
+   margin-top: 50px;
+ }
+
 /* header */
 
 header {
   font-family: "Segoe UI","Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  color: white;
 }
 
 .header_top {
@@ -42,10 +47,9 @@ header {
   top: 0;
   left: 0;
   width: 100%;
-  height: 70px;
+  height: 90px;
   background: #2C3E50;
-  line-height: 70px;
-  color: white;
+  line-height: 90px;
 }
 
 .margin_left_right_25 {
@@ -60,8 +64,8 @@ ul.hover_header li:hover {
 
 /* Jumbo */
 .jumbo {
-  margin-top: 70px;
-  padding: 30px 0;
+  margin-top: 90px;
+  padding: 100px 0;
 }
 .jumbo_text {
   width: 60%;
@@ -69,6 +73,10 @@ ul.hover_header li:hover {
 }
 .img_jumbo {
   width: 30%;
+}
+.font_70 {
+  font-size: 70px;
+  font-weight: bold;
 }
 
 /* Portfolio */
