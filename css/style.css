@@ -21,9 +21,12 @@
   vertical-align: middle;
 }
 
+.bold {
+  font-weight: bold;
+}
+
 .font_25 {
   font-size: 25px;
-  font-weight: bold;
 }
 
 .font_20 {
@@ -31,8 +34,12 @@
   font-weight: bold;
  }
 
- .margin_top_30 {
+ .margin_top_50 {
    margin-top: 50px;
+ }
+
+ .margin_top_30 {
+   margin-top: 30px;
  }
 
 /* header */
@@ -72,11 +79,23 @@ ul.hover_header li:hover {
   margin: 0 auto;
 }
 .img_jumbo {
-  width: 30%;
+  width: 25%;
 }
 .font_70 {
   font-size: 70px;
   font-weight: bold;
+}
+.line_jumbo {
+  display: inline-block;
+  height: 5px;
+  width: 120px;
+  background-color: white;
+  border-radius: 5px;
+}
+.glyphicon-star {
+  font-size: 50px;
+  vertical-align: middle;
+  margin: 0 15px;
 }
 
 /* Portfolio */
