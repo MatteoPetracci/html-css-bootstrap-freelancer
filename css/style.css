@@ -34,6 +34,10 @@
   font-weight: bold;
  }
 
+ .font_21 {
+   font-size: 21px;
+ }
+
 .margin_top_50 {
   margin-top: 50px;
 }
@@ -42,7 +46,9 @@
  margin-top: 30px;
 }
 
-
+h3 {
+  margin-bottom: 30px;
+}
 h2 {
   font-size: 50px;
    font-weight: bold;
@@ -197,26 +203,39 @@ button.btn-default:hover {
 
 
 .form_size {
-
+  margin-bottom: 50px;
 }
 
 .border_none {
   border: none;
   box-shadow: none;
   border-bottom: 1px solid lightgrey;
+
 }
 
 
 /* Footer */
 
-.footer_top {
-  background-color: blue;
-}
-.footer_bottom {
-  padding: 20px 0;
-  background-color: darkblue;
+footer {
+  color: white;
 }
 
+.footer_top {
+  background-color: #2C3E50;
+}
+
+.border_radius {
+  font-size: 25px;
+}
+
+.color_green {
+  color: #1ABC9C;
+}
+
+.footer_bottom {
+  padding: 20px 0;
+  background-color: #212529;
+}
 
 @media screen and (max-width: 768px) {
   .wrapper_xs_100 {
