@@ -52,6 +52,12 @@ header {
   margin: 0 25px;
 }
 
+ul.hover_header li:hover {
+  color: #1ABC9C;
+  cursor: pointer;
+}
+
+
 /* Jumbo */
 .jumbo {
   margin-top: 80px;
