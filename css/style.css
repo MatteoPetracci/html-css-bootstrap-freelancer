@@ -118,6 +118,7 @@ ul.hover_header li:hover {
 
 /* Portfolio */
 .box_portfolio {
+  position: relative;
   width: 100%;
   height: 300px;
   margin-bottom: 30px;
@@ -128,8 +129,23 @@ ul.hover_header li:hover {
   border-radius: 10px;
 }
 
+.opacity {
+  display: none;
+  position: absolute;
+  height: 86%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  background-color: rgba(26,188,156, 0.7);
+  border-radius: 10px;
+}
+
 .color_h2 {
   color: #2C3E50;
+}
+
+.box_portfolio:hover .opacity {
+  display: block;
 }
 
 /* Footer */
