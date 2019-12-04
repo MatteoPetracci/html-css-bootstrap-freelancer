@@ -249,6 +249,7 @@ i {
 ul li:hover i {
   background-color: white;
   color: #2C3E50;
+  cursor: pointer;
 }
 
 .color_green {
