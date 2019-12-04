@@ -1,6 +1,7 @@
 .padding_top_80 {
   padding-top: 80px;
 }
+
 .padding_bottom_80 {
   padding-bottom: 80px;
 }
@@ -9,14 +10,17 @@
   width: 60%;
   margin: 0 auto;
 }
+
 .bg_green {
   background-color: #1ABC9C;
 }
+
 .btn_green {
   background-color: #1ABC9C;
   color: white;
   text-transform: uppercase;
 }
+
 .btn_green .glyphicon{
   vertical-align: middle;
 }
@@ -34,9 +38,9 @@
   font-weight: bold;
  }
 
- .font_21 {
-   font-size: 21px;
- }
+.font_21 {
+  font-size: 21px;
+}
 
 .margin_top_50 {
   margin-top: 50px;
@@ -49,9 +53,10 @@
 h3 {
   margin-bottom: 30px;
 }
+
 h2 {
   font-size: 50px;
-   font-weight: bold;
+  font-weight: bold;
 }
 
 .back_line {
@@ -97,23 +102,27 @@ ul.hover_header li:hover {
   cursor: pointer;
 }
 
-
 /* Jumbo */
+
 .jumbo {
   margin-top: 90px;
   padding: 100px 0;
 }
+
 .jumbo_text {
   width: 60%;
   margin: 0 auto;
 }
+
 .img_jumbo {
   width: 25%;
 }
+
 .font_70 {
   font-size: 70px;
   font-weight: bold;
 }
+
 .line_jumbo {
   display: inline-block;
   height: 5px;
@@ -121,6 +130,7 @@ ul.hover_header li:hover {
   background-color: white;
   border-radius: 5px;
 }
+
 .glyphicon-star {
   font-size: 50px;
   vertical-align: middle;
@@ -128,6 +138,7 @@ ul.hover_header li:hover {
 }
 
 /* Portfolio */
+
 .box_portfolio {
   position: relative;
   width: 100%;
@@ -147,7 +158,7 @@ ul.hover_header li:hover {
   width: 100%;
   top: 0;
   left: 0;
-  background-color: rgba(26,188,156, 0.7);
+  background-color: rgba(26,188,156, 0.8);
   border-radius: 10px;
 }
 
@@ -164,6 +175,7 @@ ul.hover_header li:hover {
   color: white;
   line-height: 265px;
 }
+
 a.plus {
   color: white;
   text-decoration: none;
@@ -195,12 +207,12 @@ button:hover a.text_decoration {
   text-decoration: none;
   color: black;
 }
+
 button.btn-default:hover {
   background-color: white;
 }
 
 /* contact me */
-
 
 .form_size {
   margin-bottom: 50px;
@@ -210,7 +222,6 @@ button.btn-default:hover {
   border: none;
   box-shadow: none;
   border-bottom: 1px solid lightgrey;
-
 }
 
 
