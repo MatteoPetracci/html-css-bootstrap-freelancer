@@ -235,6 +235,11 @@ i {
   padding: 15px;
 }
 
+ul li:hover i {
+  background-color: white;
+  color: #2C3E50;
+}
+
 .color_green {
   color: #1ABC9C;
 }
