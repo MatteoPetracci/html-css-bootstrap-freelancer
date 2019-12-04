@@ -75,6 +75,7 @@ header {
   height: 90px;
   background: #2C3E50;
   line-height: 90px;
+  z-index: 100;
 }
 
 .margin_left_right_25 {
@@ -132,7 +133,7 @@ ul.hover_header li:hover {
 .opacity {
   display: none;
   position: absolute;
-  height: 86%;
+  height: 87%;
   width: 100%;
   top: 0;
   left: 0;
@@ -146,6 +147,16 @@ ul.hover_header li:hover {
 
 .box_portfolio:hover .opacity {
   display: block;
+}
+
+.plus {
+  font-size: 65px;
+  color: white;
+  line-height: 265px;
+}
+a.plus {
+  color: white;
+  text-decoration: none;
 }
 
 /* Footer */
