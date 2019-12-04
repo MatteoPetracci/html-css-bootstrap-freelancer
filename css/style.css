@@ -13,12 +13,12 @@
   background-color: lightgreen;
 }
 .btn_green {
-  background-color: #158F77;
+  background-color: #1ABC9C;
   color: white;
   text-transform: uppercase;
 }
 .btn_green .glyphicon{
-  vertical-align: text-top;
+  vertical-align: middle;
 }
 
 .font_30 {
@@ -29,8 +29,7 @@
 .font_20 {
   font-size: 16px;
   font-weight: bold;
-}
-
+ }
 
 /* header */
 
@@ -92,4 +91,5 @@ header {
     width: 60%;
     margin: 0 auto;
   }
+
 }
